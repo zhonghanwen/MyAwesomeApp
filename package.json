@@ -1,0 +1,15 @@
+{
+  "name": "myawesomeapp",
+  "version": "1.0.0",
+  "description": "this is a react-native integrating with existing app",
+  "main": "index.android.js",
+  "scripts": {
+    
+	"start": "node_modules/react-native/packager/packager.sh"
+  },
+  "author": "zhonghanwen",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "react-native": "^0.18.0"
+  }
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAwesomeApp</string>
+    <string name="myreactactivity">MyReactActivity</string>
+    <string name="about_author">about Author</string>
+</resources>
